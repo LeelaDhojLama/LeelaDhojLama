@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeelaDhojLama
-- 👀 I’m interested in developing mobile apps and web apps with intreting features 
+- 👀 I’m interested in developing mobile apps and web apps with intresting features 
 - 🌱 I’m currently learning Java Spring boot
 - 💞️ I’m looking to collaborate on any intesting idea you have
 - 📫 You can reach to me through mail buddhalama357@gmail.com
